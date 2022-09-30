@@ -6,4 +6,4 @@ NOTE: KONVERSI KE IDR MASIH BELUM DI FIX INPUT BERAPA PUN AKAN SELALU MENGHASILK
 
 ![Alt text](https://cdn.discordapp.com/attachments/904221536163078145/1025317447508688929/unknown.png "SCREENSHOT")
 
-![Alt text](https://tenor.com/view/zero-two-crying-sad-anime-anime-darling-gif-17411581 "sad")
+![Alt text](https://media.giphy.com/media/uuviZDcQnswhb6d3H5/giphy.gif "sad")
