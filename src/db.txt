@@ -1,0 +1,29 @@
+float dbCurDollar(float a){
+    float idr = (1/15232.08);
+    float euro = (1/1.02);
+    float jpy = (1/144.66);
+    float myr = (1/4.64);
+    float sgd = (1/1.43);
+    float krw = (1/1430.27);
+    float aed = (1/3.67);
+    float hkd = (1/7.85);
+    float inr = (1/81.62);
+    float gbp = (1/0.90);
+
+    return a;
+}
+
+float dbCurPound(float a){
+    float idr = (1/16914.18);
+    float euro = (1/1.13);
+    float jpy = (1/160.56);
+    float myr = (1/5.15);
+    float sgd = (1/1.59);
+    float krw = (1/1586.29);
+    float aed = (1/4.08);
+    float hkd = (1/8.71);
+    float inr = (1/90.63);
+    float usd = (1/0.90);
+
+    return a;
+}
